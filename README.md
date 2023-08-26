@@ -1,4 +1,4 @@
-# Stock Market Kafka Real Time Data Engineering Project
+# Stock Market Kafka Real-Time Data Engineering Project
 
 ## Introduction 
 In this project, I have executed an End-To-End Data Pipeline on Real-Time Stock Market Data using Kafka.
@@ -17,3 +17,6 @@ Technologies used: Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena
 4. Glue Catalog
 5. EC2
 - Apache Kafka
+
+## Dataset Used
+https://github.com/shivanireddy/Stock-Market-Data-Pipeline-Kafka/blob/main/indexProcessed.csv
